@@ -31,8 +31,8 @@ Avant d'exécuter ce projet, assurez-vous d'avoir les prérequis suivants instal
 
 1. Clonez le projet ou téléchargez-le :
    ```bash
-   git clone <url-du-repository>
-   cd DataCryptoPython-dev
+   git clone https://github.com/BenjaminGott/DataCryptoPython.git
+   cd DataCryptoPython
    ```
 2. Installez les dépendances nécessaires :
    ```bash
